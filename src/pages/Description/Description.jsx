@@ -22,6 +22,7 @@ function Description() {
     };
 
     if (isSuccess) {
+      console.info(issuesStore[param.id]);
       if (issuesStore[param.id]) markdownChangeHtml();
       else navigate('/error');
     }
@@ -32,7 +33,7 @@ function Description() {
 
   const DateFormatter = issuesStore[param.id]?.created_at.match(/(\d{4})-(\d{2})-(\d{2})T/);
   let DateFormatterString;
-  if (isSuccess) {
+  if (issuesStore[param.id]) {
     DateFormatterString = `${DateFormatter[1]}년 ${DateFormatter[2]}월 ${DateFormatter[3]}일`;
   }
 
