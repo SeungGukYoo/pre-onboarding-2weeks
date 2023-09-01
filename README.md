@@ -1,4 +1,4 @@
-# 👹 원티드 프리온보딩 2주차 과제 👹
+# 원티드 프리온보딩 2주차 과제
 
 ## 개요
 
@@ -11,9 +11,11 @@
 - 이슈 목록 가져오기(open된 이슈 중 코멘트가 많은 순서대로)
 - 다섯번째 셀마다 광고 이미지 출력(광고를 클릭시 원티드 주소로 이동)
 
-## 2. 개발 환경 및 배포 URL
+## 2. 개발 환경 및 URL
 
 [🔗 AWS 배포링크](http://wanted-aws-self-study.s3-website.ap-northeast-2.amazonaws.com/)
+
+[🔗 리팩토링 링크](https://github.com/wanted-pre-onboarding-16/pre-onboarding-12th-2-16)
 
 ## 3. 프로젝트 구조
 
