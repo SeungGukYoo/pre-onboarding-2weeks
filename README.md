@@ -27,12 +27,16 @@
 ## 5. UI
 
 1. 전체 페이지
+   
    <img width="820" alt="스크린샷 2023-09-01 오후 2 08 45" src="https://github.com/SeungGukYoo/study/assets/119836116/4250d2cc-c4fe-4b69-b18a-4bf5ebd5e5f6">
 
 2. 상세 페이지
+
    <img width="820" alt="스크린샷 2023-09-01 오후 2 08 57" src="https://github.com/SeungGukYoo/study/assets/119836116/011cbf53-fda0-46d7-bcd5-8366da3100f2">
+
 3. 에러 페이지
-   <img width="700" alt="스크린샷 2023-09-01 오후 2 15 57" src="https://github.com/SeungGukYoo/study/assets/119836116/e662f84c-9bf0-4587-a41b-dc1497060a93">
+
+   <img width="720" alt="스크린샷 2023-09-01 오후 2 15 57" src="https://github.com/SeungGukYoo/study/assets/119836116/e662f84c-9bf0-4587-a41b-dc1497060a93">
 
 ## 6. 개선 사항
 
